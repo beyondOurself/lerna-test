@@ -1,6 +1,6 @@
 {
   "name": "@long-demo/cli",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "test",
   "author": "longlong <562172151@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@long-demo/cli-shared-utils": "^0.0.0",
+    "@long-demo/cli-shared-utils": "^0.0.1",
     "loadsh": "^0.0.4"
   }
 }
